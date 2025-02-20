@@ -2,7 +2,7 @@
 Welcome to the upcoming AI Agents website, a cutting-edge platform designed to revolutionize automation and efficiency through AI-powered agents. Whether you're looking for smart assistance, workflow automation, or seamless AI-driven interactions, our platform will deliver innovative solutions.
 
 *About the Project*
-This project is led by Zeeshan and developed under the Fun Tech brand, dedicated to creating intelligent and interactive AI agents that streamline tasks and improve productivity.
+This project is led by Zeeshan , dedicated to creating intelligent and interactive AI agents that streamline tasks and improve productivity.
 
 *Features*
 Smart AI Agents: Automate responses, handle tasks, and provide intelligent support.
